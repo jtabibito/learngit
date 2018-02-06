@@ -19,3 +19,6 @@ $ git status
 
 查看修改内容
 $git diff 文件
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
